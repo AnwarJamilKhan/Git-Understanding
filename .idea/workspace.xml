@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/AccessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/Car_AccessModifier_Public.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/Default.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OtherPackage/Checkdefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/36 StudentTOString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/36 StudentTOString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +107,7 @@
     "Application.UserInput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "New__Feature",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
