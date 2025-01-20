@@ -27,7 +27,7 @@ class GuessGame {
             result = guessgame.Guess(guessNum);
             if(result == 0)
             {
-                System.out.println("Congrats Your Guess is Correct !");
+                 System.out.println("Congrats Your Guess is Correct !");
             }
             else if (result < 0)
             {

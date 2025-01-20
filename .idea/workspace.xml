@@ -4,70 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/10 MaxMinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/11 IsSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/12 DeletingInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/13 ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/14 Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/15 MergeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/16 SearchTwoDimentionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/17 SumAndAverageOf2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/18 TwoDignoalElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/19 Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/20 Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/21 MinimumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/22 EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/23 AbsoluteValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/23 StudentScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/24 MonthOfTheYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/25 NumberFussingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/26 PasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/27 MultiplicationTableFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/28 PrimeOrNotFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/29 MaximumValueForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/30 OccuranceOfSpecificElementForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/31 ExitUserInputLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/32 PrintOnlEvenNumbersUsingContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/33 SumAllPositiveNumbersUsingContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/34 FibonacciRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/35 PalindromeUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/36 StudentTOString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/37 ConcatenateAndConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/38 CalculateAreaCircumOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/39 DiceRoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/40 GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/7 Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Car1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KGMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeftHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Recusion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RightHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestingFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserInput.java" afterDir="false" />
+    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the first Commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/40 GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/40 GuessGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +20,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnwarJamilKhan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnwarJamilKhan/Git-Understanding.git",
+    "accountId": "9d63870a-b00e-4d5b-b770-dd4817126e65"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -93,72 +49,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbsoluteValue.executor": "Run",
-    "Application.ArraySumAverage.executor": "Run",
-    "Application.BasicCalculator.executor": "Run",
-    "Application.Book.executor": "Debug",
-    "Application.BreakAndContinue.executor": "Run",
-    "Application.CalculateAreaCircumOfCircle.executor": "Run",
-    "Application.Car1.executor": "Run",
-    "Application.ConcatenateAndConvert.executor": "Run",
-    "Application.Course.executor": "Run",
-    "Application.DeletingInArray.executor": "Run",
-    "Application.DiceRoll.executor": "Run",
-    "Application.DoWhile.executor": "Run",
-    "Application.Driver.executor": "Run",
-    "Application.EvenOrOdd.executor": "Run",
-    "Application.ExitUserInputLoop.executor": "Run",
-    "Application.FibonacciRecursion.executor": "Run",
-    "Application.ForEachLoop.executor": "Run",
-    "Application.ForLoop.executor": "Run",
-    "Application.GuessGame.executor": "Run",
-    "Application.IsSortedArray.executor": "Run",
-    "Application.KGMath.executor": "Run",
-    "Application.LeftHalfPyramid.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxMinArray.executor": "Run",
-    "Application.MaximumValueForEach.executor": "Run",
-    "Application.MergeTwoSortedArray.executor": "Run",
-    "Application.MinimumNumber.executor": "Run",
-    "Application.MonthOfTheYear.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.MultiplicationTableFor.executor": "Run",
-    "Application.NumberFussingGame.executor": "Run",
-    "Application.OccuranceArray.executor": "Debug",
-    "Application.OccuranceOfSpecificElementForEach.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PalindromeUsingRecursion.executor": "Run",
-    "Application.PasswordChecker.executor": "Run",
-    "Application.PrimeOrNotFor.executor": "Run",
-    "Application.PrintOnlEvenNumbersUsingContinue.executor": "Run",
-    "Application.Recusion.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.RightHalfPyramid.executor": "Run",
-    "Application.SearchTwoDimentionalArray.executor": "Run",
-    "Application.StringFormat.executor": "Run",
-    "Application.StudentScore.executor": "Run",
-    "Application.StudentTOString.executor": "Run",
-    "Application.SumAllPositiveNumbersUsingContinue.executor": "Run",
-    "Application.SumAndAverageOf2D.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.Switch.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.TwoDigonalElements.executor": "Run",
-    "Application.TypeConversion.executor": "Run",
-    "Application.UserInput.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySumAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Book.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BreakAndContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculateAreaCircumOfCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatenateAndConvert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Course.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeletingInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiceRoll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExitUserInputLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEachLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuessGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KGMath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumValueForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonthOfTheYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTableFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberFussingGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccuranceArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OccuranceOfSpecificElementForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeUsingRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PasswordChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeOrNotFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintOnlEvenNumbersUsingContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recusion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchTwoDimentionalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentScore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTOString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumAllPositiveNumbersUsingContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumAndAverageOf2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDigonalElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ajamil\Java_Project\Challenges\Patterns\src\main\java" />
@@ -249,7 +205,20 @@
       <option name="presentableId" value="Default" />
       <updated>1734604999747</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is the first Commit">
+      <option name="closed" value="true" />
+      <created>1737389801897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737389801898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the first Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the first Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
