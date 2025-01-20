@@ -1,0 +1,4 @@
+package OOPs;
+
+ class Default {
+}

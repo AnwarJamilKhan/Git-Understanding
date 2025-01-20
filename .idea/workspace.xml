@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the first Commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/40 GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/40 GuessGame.java" afterDir="false" />
+    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the Third Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/Car_AccessModifier_Public.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/Default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherPackage/Checkdefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,18 +32,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AnwarJamilKhan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnwarJamilKhan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AnwarJamilKhan/Git-Understanding.git",
-    "accountId": "9d63870a-b00e-4d5b-b770-dd4817126e65"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnwarJamilKhan/Git-Understanding.git&quot;,
+    &quot;accountId&quot;: &quot;9d63870a-b00e-4d5b-b770-dd4817126e65&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,78 +53,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraySumAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Book.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BreakAndContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculateAreaCircumOfCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcatenateAndConvert.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Course.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeletingInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiceRoll.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExitUserInputLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEachLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuessGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KGMath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftHalfPyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxMinArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumValueForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MonthOfTheYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTableFor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberFussingGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccuranceArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.OccuranceOfSpecificElementForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeUsingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PasswordChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeOrNotFor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintOnlEvenNumbersUsingContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recusion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RightHalfPyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchTwoDimentionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringFormat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentScore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentTOString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumAllPositiveNumbersUsingContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumAndAverageOf2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoDigonalElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserInput.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbsoluteValue.executor": "Run",
+    "Application.AccessTest.executor": "Run",
+    "Application.ArraySumAverage.executor": "Run",
+    "Application.BasicCalculator.executor": "Run",
+    "Application.Book.executor": "Debug",
+    "Application.BreakAndContinue.executor": "Run",
+    "Application.CalculateAreaCircumOfCircle.executor": "Run",
+    "Application.Car1.executor": "Run",
+    "Application.ConcatenateAndConvert.executor": "Run",
+    "Application.Course.executor": "Run",
+    "Application.DeletingInArray.executor": "Run",
+    "Application.DiceRoll.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Driver.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
+    "Application.ExitUserInputLoop.executor": "Run",
+    "Application.FibonacciRecursion.executor": "Run",
+    "Application.ForEachLoop.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.GuessGame.executor": "Run",
+    "Application.IsSortedArray.executor": "Run",
+    "Application.KGMath.executor": "Run",
+    "Application.LeftHalfPyramid.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxMinArray.executor": "Run",
+    "Application.MaximumValueForEach.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MinimumNumber.executor": "Run",
+    "Application.MonthOfTheYear.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.MultiplicationTableFor.executor": "Run",
+    "Application.NumberFussingGame.executor": "Run",
+    "Application.OccuranceArray.executor": "Debug",
+    "Application.OccuranceOfSpecificElementForEach.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeUsingRecursion.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "Application.PrimeOrNotFor.executor": "Run",
+    "Application.PrintOnlEvenNumbersUsingContinue.executor": "Run",
+    "Application.Recusion.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.RightHalfPyramid.executor": "Run",
+    "Application.SearchTwoDimentionalArray.executor": "Run",
+    "Application.StringFormat.executor": "Run",
+    "Application.StudentScore.executor": "Run",
+    "Application.StudentTOString.executor": "Run",
+    "Application.SumAllPositiveNumbersUsingContinue.executor": "Run",
+    "Application.SumAndAverageOf2D.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TwoDigonalElements.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.UserInput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ajamil\Java_Project\Challenges\Patterns\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GuessGame">
+  <component name="RunManager" selected="Application.AccessTest">
+    <configuration name="AccessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.AccessTest" />
+      <module name="Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculateAreaCircumOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CalculateAreaCircumOfCircle" />
       <module name="Patterns" />
@@ -173,26 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTOString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StudentTOString" />
-      <module name="Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccessTest" />
         <item itemvalue="Application.GuessGame" />
         <item itemvalue="Application.DiceRoll" />
         <item itemvalue="Application.CalculateAreaCircumOfCircle" />
         <item itemvalue="Application.ConcatenateAndConvert" />
-        <item itemvalue="Application.StudentTOString" />
       </list>
     </recent_temporary>
   </component>
