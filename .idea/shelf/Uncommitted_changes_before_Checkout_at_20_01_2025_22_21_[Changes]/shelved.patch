@@ -1,0 +1,197 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"518a90a4-37ab-49dc-823f-ce06954634d7\" name=\"Changes\" comment=\"This is the Third Commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/OOPs/AccessTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/OOPs/Car_AccessModifier_Public.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/OOPs/Default.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/OtherPackage/Checkdefault.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;AnwarJamilKhan&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/AnwarJamilKhan/Git-Understanding.git&quot;,\r\n    &quot;accountId&quot;: &quot;9d63870a-b00e-4d5b-b770-dd4817126e65&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2qQq9g1CpSDWwbgFj34icMBRaUa\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.AbsoluteValue.executor\": \"Run\",\r\n    \"Application.AccessTest.executor\": \"Run\",\r\n    \"Application.ArraySumAverage.executor\": \"Run\",\r\n    \"Application.BasicCalculator.executor\": \"Run\",\r\n    \"Application.Book.executor\": \"Debug\",\r\n    \"Application.BreakAndContinue.executor\": \"Run\",\r\n    \"Application.CalculateAreaCircumOfCircle.executor\": \"Run\",\r\n    \"Application.Car1.executor\": \"Run\",\r\n    \"Application.ConcatenateAndConvert.executor\": \"Run\",\r\n    \"Application.Course.executor\": \"Run\",\r\n    \"Application.DeletingInArray.executor\": \"Run\",\r\n    \"Application.DiceRoll.executor\": \"Run\",\r\n    \"Application.DoWhile.executor\": \"Run\",\r\n    \"Application.Driver.executor\": \"Run\",\r\n    \"Application.EvenOrOdd.executor\": \"Run\",\r\n    \"Application.ExitUserInputLoop.executor\": \"Run\",\r\n    \"Application.FibonacciRecursion.executor\": \"Run\",\r\n    \"Application.ForEachLoop.executor\": \"Run\",\r\n    \"Application.ForLoop.executor\": \"Run\",\r\n    \"Application.GuessGame.executor\": \"Run\",\r\n    \"Application.IsSortedArray.executor\": \"Run\",\r\n    \"Application.KGMath.executor\": \"Run\",\r\n    \"Application.LeftHalfPyramid.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.MaxMinArray.executor\": \"Run\",\r\n    \"Application.MaximumValueForEach.executor\": \"Run\",\r\n    \"Application.MergeTwoSortedArray.executor\": \"Run\",\r\n    \"Application.MinimumNumber.executor\": \"Run\",\r\n    \"Application.MonthOfTheYear.executor\": \"Run\",\r\n    \"Application.MultiplicationTable.executor\": \"Run\",\r\n    \"Application.MultiplicationTableFor.executor\": \"Run\",\r\n    \"Application.NumberFussingGame.executor\": \"Run\",\r\n    \"Application.OccuranceArray.executor\": \"Debug\",\r\n    \"Application.OccuranceOfSpecificElementForEach.executor\": \"Run\",\r\n    \"Application.Palindrome.executor\": \"Run\",\r\n    \"Application.PalindromeUsingRecursion.executor\": \"Run\",\r\n    \"Application.PasswordChecker.executor\": \"Run\",\r\n    \"Application.PrimeOrNotFor.executor\": \"Run\",\r\n    \"Application.PrintOnlEvenNumbersUsingContinue.executor\": \"Run\",\r\n    \"Application.Recusion.executor\": \"Run\",\r\n    \"Application.ReverseArray.executor\": \"Run\",\r\n    \"Application.RightHalfPyramid.executor\": \"Run\",\r\n    \"Application.SearchTwoDimentionalArray.executor\": \"Run\",\r\n    \"Application.StringFormat.executor\": \"Run\",\r\n    \"Application.StudentScore.executor\": \"Run\",\r\n    \"Application.StudentTOString.executor\": \"Run\",\r\n    \"Application.SumAllPositiveNumbersUsingContinue.executor\": \"Run\",\r\n    \"Application.SumAndAverageOf2D.executor\": \"Run\",\r\n    \"Application.Swap.executor\": \"Run\",\r\n    \"Application.Switch.executor\": \"Run\",\r\n    \"Application.TernaryOperator.executor\": \"Run\",\r\n    \"Application.TwoDigonalElements.executor\": \"Run\",\r\n    \"Application.TypeConversion.executor\": \"Run\",\r\n    \"Application.UserInput.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\ajamil\\Java_Project\\Challenges\\Patterns\\src\\main\\java\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.AccessTest\">\r\n    <configuration name=\"AccessTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"OOPs.AccessTest\" />\r\n      <module name=\"Patterns\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"OOPs.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"CalculateAreaCircumOfCircle\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.CalculateAreaCircumOfCircle\" />\r\n      <module name=\"Patterns\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ConcatenateAndConvert\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.ConcatenateAndConvert\" />\r\n      <module name=\"Patterns\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"DiceRoll\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.DiceRoll\" />\r\n      <module name=\"Patterns\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"GuessGame\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.GuessGame\" />\r\n      <module name=\"Patterns\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.AccessTest\" />\r\n        <item itemvalue=\"Application.GuessGame\" />\r\n        <item itemvalue=\"Application.DiceRoll\" />\r\n        <item itemvalue=\"Application.CalculateAreaCircumOfCircle\" />\r\n        <item itemvalue=\"Application.ConcatenateAndConvert\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"518a90a4-37ab-49dc-823f-ce06954634d7\" name=\"Changes\" comment=\"\" />\r\n      <created>1734604999747</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1734604999747</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"This is the first Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1737389801897</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1737389801898</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"This is the first Commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"This is the first Commit\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>\r\n          <line>22</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>11</line>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>12</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>8</line>\r\n          <option name=\"timeStamp\" value=\"4\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>9</line>\r\n          <option name=\"timeStamp\" value=\"8\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>10</line>\r\n          <option name=\"timeStamp\" value=\"9\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>38</line>\r\n          <option name=\"timeStamp\" value=\"16\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>39</line>\r\n          <option name=\"timeStamp\" value=\"17\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>27</line>\r\n          <option name=\"timeStamp\" value=\"18\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>23</line>\r\n          <option name=\"timeStamp\" value=\"19\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/8 ArraySumAverage.java</url>\r\n          <line>32</line>\r\n          <option name=\"timeStamp\" value=\"20\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>27</line>\r\n          <option name=\"timeStamp\" value=\"22\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>13</line>\r\n          <option name=\"timeStamp\" value=\"24\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>21</line>\r\n          <option name=\"timeStamp\" value=\"27\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>22</line>\r\n          <option name=\"timeStamp\" value=\"28\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>26</line>\r\n          <option name=\"timeStamp\" value=\"29\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>29</line>\r\n          <option name=\"timeStamp\" value=\"30\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/9 OccuranceArray.java</url>\r\n          <line>30</line>\r\n          <option name=\"timeStamp\" value=\"31\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>10</line>\r\n          <option name=\"timeStamp\" value=\"32\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>13</line>\r\n          <option name=\"timeStamp\" value=\"33\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>18</line>\r\n          <option name=\"timeStamp\" value=\"34\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>24</line>\r\n          <option name=\"timeStamp\" value=\"35\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>35</line>\r\n          <option name=\"timeStamp\" value=\"36\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>40</line>\r\n          <option name=\"timeStamp\" value=\"37\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>39</line>\r\n          <option name=\"timeStamp\" value=\"38\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>49</line>\r\n          <option name=\"timeStamp\" value=\"39\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>50</line>\r\n          <option name=\"timeStamp\" value=\"40\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>53</line>\r\n          <option name=\"timeStamp\" value=\"41\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>58</line>\r\n          <option name=\"timeStamp\" value=\"42\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>63</line>\r\n          <option name=\"timeStamp\" value=\"43\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>64</line>\r\n          <option name=\"timeStamp\" value=\"44\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>65</line>\r\n          <option name=\"timeStamp\" value=\"45\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>66</line>\r\n          <option name=\"timeStamp\" value=\"46\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>67</line>\r\n          <option name=\"timeStamp\" value=\"47\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>68</line>\r\n          <option name=\"timeStamp\" value=\"48\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>69</line>\r\n          <option name=\"timeStamp\" value=\"49\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>70</line>\r\n          <option name=\"timeStamp\" value=\"50\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>19</line>\r\n          <option name=\"timeStamp\" value=\"51\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>20</line>\r\n          <option name=\"timeStamp\" value=\"52\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>47</line>\r\n          <option name=\"timeStamp\" value=\"53\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/19 Book.java</url>\r\n          <line>33</line>\r\n          <option name=\"timeStamp\" value=\"54\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>10</line>\r\n          <option name=\"timeStamp\" value=\"55\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>11</line>\r\n          <option name=\"timeStamp\" value=\"56\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>18</line>\r\n          <option name=\"timeStamp\" value=\"57\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>19</line>\r\n          <option name=\"timeStamp\" value=\"58\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>21</line>\r\n          <option name=\"timeStamp\" value=\"59\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>23</line>\r\n          <option name=\"timeStamp\" value=\"60\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>6</line>\r\n          <option name=\"timeStamp\" value=\"61\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Recusion.java</url>\r\n          <line>12</line>\r\n          <option name=\"timeStamp\" value=\"62\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/31 ExitUserInputLoop.java</url>\r\n          <line>15</line>\r\n          <option name=\"timeStamp\" value=\"63\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,13 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the Third Commit">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/AccessTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/Car_AccessModifier_Public.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPs/Default.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/OtherPackage/Checkdefault.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This Commit for new file of OOPs" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -53,73 +47,73 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.AbsoluteValue.executor": "Run",
+-    "Application.AccessTest.executor": "Run",
+-    "Application.ArraySumAverage.executor": "Run",
+-    "Application.BasicCalculator.executor": "Run",
+-    "Application.Book.executor": "Debug",
+-    "Application.BreakAndContinue.executor": "Run",
+-    "Application.CalculateAreaCircumOfCircle.executor": "Run",
+-    "Application.Car1.executor": "Run",
+-    "Application.ConcatenateAndConvert.executor": "Run",
+-    "Application.Course.executor": "Run",
+-    "Application.DeletingInArray.executor": "Run",
+-    "Application.DiceRoll.executor": "Run",
+-    "Application.DoWhile.executor": "Run",
+-    "Application.Driver.executor": "Run",
+-    "Application.EvenOrOdd.executor": "Run",
+-    "Application.ExitUserInputLoop.executor": "Run",
+-    "Application.FibonacciRecursion.executor": "Run",
+-    "Application.ForEachLoop.executor": "Run",
+-    "Application.ForLoop.executor": "Run",
+-    "Application.GuessGame.executor": "Run",
+-    "Application.IsSortedArray.executor": "Run",
+-    "Application.KGMath.executor": "Run",
+-    "Application.LeftHalfPyramid.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.MaxMinArray.executor": "Run",
+-    "Application.MaximumValueForEach.executor": "Run",
+-    "Application.MergeTwoSortedArray.executor": "Run",
+-    "Application.MinimumNumber.executor": "Run",
+-    "Application.MonthOfTheYear.executor": "Run",
+-    "Application.MultiplicationTable.executor": "Run",
+-    "Application.MultiplicationTableFor.executor": "Run",
+-    "Application.NumberFussingGame.executor": "Run",
+-    "Application.OccuranceArray.executor": "Debug",
+-    "Application.OccuranceOfSpecificElementForEach.executor": "Run",
+-    "Application.Palindrome.executor": "Run",
+-    "Application.PalindromeUsingRecursion.executor": "Run",
+-    "Application.PasswordChecker.executor": "Run",
+-    "Application.PrimeOrNotFor.executor": "Run",
+-    "Application.PrintOnlEvenNumbersUsingContinue.executor": "Run",
+-    "Application.Recusion.executor": "Run",
+-    "Application.ReverseArray.executor": "Run",
+-    "Application.RightHalfPyramid.executor": "Run",
+-    "Application.SearchTwoDimentionalArray.executor": "Run",
+-    "Application.StringFormat.executor": "Run",
+-    "Application.StudentScore.executor": "Run",
+-    "Application.StudentTOString.executor": "Run",
+-    "Application.SumAllPositiveNumbersUsingContinue.executor": "Run",
+-    "Application.SumAndAverageOf2D.executor": "Run",
+-    "Application.Swap.executor": "Run",
+-    "Application.Switch.executor": "Run",
+-    "Application.TernaryOperator.executor": "Run",
+-    "Application.TwoDigonalElements.executor": "Run",
+-    "Application.TypeConversion.executor": "Run",
+-    "Application.UserInput.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "master",
+-    "kotlin-language-version-configured": "true",
+-    "onboarding.tips.debug.path": "C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java",
+-    "project.structure.last.edited": "Modules",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
+-    "run.code.analysis.last.selected.profile": "pProject Default"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AccessTest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ArraySumAverage.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BasicCalculator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Book.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.BreakAndContinue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CalculateAreaCircumOfCircle.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Car1.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ConcatenateAndConvert.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Course.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DeletingInArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DiceRoll.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
++    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ExitUserInputLoop.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FibonacciRecursion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ForEachLoop.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
++    &quot;Application.GuessGame.executor&quot;: &quot;Run&quot;,
++    &quot;Application.IsSortedArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.KGMath.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeftHalfPyramid.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxMinArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumValueForEach.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MonthOfTheYear.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MultiplicationTableFor.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberFussingGame.executor&quot;: &quot;Run&quot;,
++    &quot;Application.OccuranceArray.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.OccuranceOfSpecificElementForEach.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PalindromeUsingRecursion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PasswordChecker.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PrimeOrNotFor.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PrintOnlEvenNumbersUsingContinue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Recusion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RightHalfPyramid.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SearchTwoDimentionalArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StringFormat.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StudentScore.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StudentTOString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SumAllPositiveNumbersUsingContinue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SumAndAverageOf2D.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TwoDigonalElements.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.UserInput.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\ajamil\Java_Project\Challenges\Patterns\src\main\java" />
+@@ -218,12 +212,29 @@
+       <option name="project" value="LOCAL" />
+       <updated>1737389801898</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="This Commit for new file of OOPs">
++      <option name="closed" value="true" />
++      <created>1737411378574</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1737411378574</updated>
++    </task>
++    <task id="LOCAL-00003" summary="This Commit for new file of OOPs">
++      <option name="closed" value="true" />
++      <created>1737411450905</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1737411450905</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="This is the first Commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="This is the first Commit" />
++    <MESSAGE value="This Commit for new file of OOPs" />
++    <option name="LAST_COMMIT_MESSAGE" value="This Commit for new file of OOPs" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
