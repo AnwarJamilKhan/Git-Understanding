@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="Added a comment" />
+    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="Added a comment">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge41/example/geometry/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge41/example/geometry/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge41/example/utils/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge42/example/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge42/example/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge43/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Challenge43/example/TestEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GetterSetter/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestPackage/GetterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +40,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="New_Feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,9 +75,11 @@
     "Application.Book.executor": "Debug",
     "Application.BreakAndContinue.executor": "Run",
     "Application.CalculateAreaCircumOfCircle.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.Car1.executor": "Run",
     "Application.ConcatenateAndConvert.executor": "Run",
     "Application.Course.executor": "Run",
+    "Application.Customer.executor": "Run",
     "Application.DeletingInArray.executor": "Run",
     "Application.DiceRoll.executor": "Run",
     "Application.DoWhile.executor": "Run",
@@ -76,6 +89,7 @@
     "Application.FibonacciRecursion.executor": "Run",
     "Application.ForEachLoop.executor": "Run",
     "Application.ForLoop.executor": "Run",
+    "Application.GetterTest.executor": "Run",
     "Application.GuessGame.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
     "Application.KGMath.executor": "Run",
@@ -108,6 +122,7 @@
     "Application.Swap.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
+    "Application.TestEmployee.executor": "Run",
     "Application.TwoDigonalElements.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.UserInput.executor": "Run",
@@ -127,13 +142,13 @@
       <recent name="C:\Users\ajamil\Java_Project\Challenges\Patterns\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccessTest">
-    <configuration name="AccessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.AccessTest" />
+  <component name="RunManager" selected="Application.TestEmployee">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.utils.Calculator" />
       <module name="Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs.*" />
+          <option name="PATTERN" value="com.example.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateAreaCircumOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CalculateAreaCircumOfCircle" />
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge42.example.Customer" />
       <module name="Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="Challenge42.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,25 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatenateAndConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ConcatenateAndConvert" />
+    <configuration name="GetterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPackage.GetterTest" />
       <module name="Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiceRoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DiceRoll" />
-      <module name="Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="TestPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,13 +195,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge43.example.TestEmployee" />
+      <module name="Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenge43.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEmployee" />
+        <item itemvalue="Application.Customer" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.GetterTest" />
         <item itemvalue="Application.GuessGame" />
-        <item itemvalue="Application.DiceRoll" />
-        <item itemvalue="Application.ConcatenateAndConvert" />
-        <item itemvalue="Application.CalculateAreaCircumOfCircle" />
-        <item itemvalue="Application.AccessTest" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737413304171</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added a comment">
+      <option name="closed" value="true" />
+      <created>1737454969282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737454969282</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
