@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the Third Commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/36 StudentTOString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/36 StudentTOString.java" afterDir="false" />
-    </list>
+    <list default="true" id="518a90a4-37ab-49dc-823f-ce06954634d7" name="Changes" comment="This is the Third Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,7 @@
     "Application.UserInput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "New__Feature",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ajamil/Java_Project/Challenges/Patterns/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
